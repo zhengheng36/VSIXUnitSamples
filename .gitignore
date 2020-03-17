@@ -1,0 +1,7 @@
+# Ignore files 
+
+packages
+.vs
+*/bin
+*/obj
+*/*/v16
