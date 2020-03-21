@@ -1,0 +1,2 @@
+﻿[$RootKey$\TeamFoundation\SourceControl\Checkin Policies]
+"200311_CheckInPolicy_VSIX"="$PackageFolder$\200311_CheckInPolicy_Lib.dll"
